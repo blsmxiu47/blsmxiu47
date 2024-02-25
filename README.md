@@ -1,6 +1,6 @@
 # Hi 👋 I'm Wes
 
-I am a full-stack developer 👨‍💻 and data enthusiast 📊
+I am a full-stack developer 👨‍💻 and data professional 📊
 
 ## Constantly iterating on...
 
